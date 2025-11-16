@@ -1,2 +1,2 @@
-# my first push
-## a library manage system
+# My first push
+## A library manage system
